@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Vasudev/Downloads/jaxrs-ri-2.25.1/jaxrs-ri/api/javax.ws.rs-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vasudev/Downloads/jaxrs-ri-2.25.1/jaxrs-ri/lib/jersey-client.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vasudev/Downloads/jaxrs-ri-2.25.1/jaxrs-ri/lib/jersey-common.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vasudev/Downloads/jaxrs-ri-2.25.1/jaxrs-ri/lib/jersey-container-servlet.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vasudev/Downloads/jaxrs-ri-2.25.1/jaxrs-ri/lib/jersey-container-servlet-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vasudev/Downloads/jaxrs-ri-2.25.1/jaxrs-ri/lib/jersey-media-jaxb.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vasudev/Downloads/jaxrs-ri-2.25.1/jaxrs-ri/lib/jersey-server.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vasudev/Downloads/javax.servlet-2.5.0.jar/javax.servlet-2.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vasudev/Downloads/genson-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vasudev/Downloads/hibernate-validator-4.0.2.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vasudev/Downloads/jackson-core-2.4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vasudev/Downloads/gs-relational-data-access-master.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Vasudev/Downloads/gs-rest-service-master.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Vasudev/Downloads/jackson-all-1.7.4.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Vasudev/Downloads/javax.persistence.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Vasudev/Downloads/javax.servlet-2.5.0.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Vasudev/Downloads/javax.ws.rs.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Vasudev/Downloads/javax.ws.rs-api-2.0.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Vasudev/Downloads/javax.ws.rs-api-2.0-m08.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Vasudev/Downloads/javax.ws.rs-api-2.0-m10-sources.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Vasudev/Downloads/jaxrs-ri-2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vasudev/Downloads/jaxrs-ri-2.25.1 (1).zip"/>
+	<classpathentry kind="lib" path="C:/Users/Vasudev/Downloads/jaxrs-ri-2.25.1.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Vasudev/Downloads/validation-api-1.0.0.GA.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
